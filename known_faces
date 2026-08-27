@@ -1,0 +1,13 @@
+- This folder contains images of authorized users used for training the face recognition model.
+- Create a separate subfolder for each authorized person.
+- Upload 5–15 face images per person to improve recognition accuracy.
+- Capture images in good lighting conditions without glasses, masks, or obstructions.
+- Ensure clear, front-facing images with neutral expressions for best results.
+dataset/faces/
+├── person_1/
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   └── img5.jpg
+├── person_2/
+│   ├── img1.jpg
+│   └── img10.jpg
